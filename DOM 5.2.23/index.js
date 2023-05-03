@@ -31,10 +31,12 @@ console.log(mainTag[1].textContent)
 
 
 //Seleccionamos los elementos a traves de su ID o clase
-const mainQueryAll = document.querySelectorAll(".main-content")
+//const mainQueryAll = document.querySelectorAll(".main-content")
 
 //verificamos en consola que obtenemos la etiqueta
 
-console.log(mainQueryAll);
+/* console.log(mainQueryAll);
 console.log(mainQueryAll[0]).textContent;
 console.log(mainQueryAll[1]).textContent;
+ */
+
